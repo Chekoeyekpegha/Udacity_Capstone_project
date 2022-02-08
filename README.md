@@ -6,6 +6,8 @@ Loading the datasets to s3 and performing job training on a preprocessed dataset
 Performing debugging and profiling
 Creating inference and prediction
 
+The dataset can be loaded with pytorch from here https://pytorch.org/vision/stable/datasets.html#fashion-mnist
+
 Different pretrained models were tried with different hyperparameter tuning to achieve a good result based on accuracy.
 
 Included in this repository are:
