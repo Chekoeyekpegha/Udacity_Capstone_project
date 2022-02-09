@@ -18,5 +18,7 @@ The python scripts used as entry_points for training and deploying endpoints(fm_
 
 The profiler report made after training the model
 
+The code used in calculating the mean and standard deviation of the dataset(mean_and_std.ipynb)
+
 The report and proposal of this project
 
